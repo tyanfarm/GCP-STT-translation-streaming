@@ -1,0 +1,5 @@
+google-cloud-speech
+google-cloud-translate
+pyaudio
+six
+python-dotenv
